@@ -81,6 +81,11 @@
 - [[피그백] 메타타입](https://seob-p.tistory.com/12)
 - [[Alex] Opaque Type](./ETC/Opaque%20Type/README.md)
 - [[피그백] 깊은 복사 & 얕은 복사](https://seob-p.tistory.com/14)
+- [[피그백] Erasure Type](https://seob-p.tistory.com/19)
+- [[피기] class Initialization](https://seob-p.tistory.com/25)
+
+# iOS
+- [[피그백] DiffableDataSource](https://seob-p.tistory.com/24)
 
 # Xcode
 
